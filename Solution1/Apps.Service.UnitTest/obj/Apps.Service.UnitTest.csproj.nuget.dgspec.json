@@ -50,6 +50,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.1, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.8.0, )"

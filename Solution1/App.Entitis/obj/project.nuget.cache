@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "64i+OTTHFcIQnqbrMCgwKqWS+FHCj3aA1z54VhsOKCyn6RG5U3clAFVues3eSMSRtr6YvA8nZ7nZoP6OsXSzzA==",
+  "dgSpecHash": "MgWDBftRMzxrkU3dJaCcR8otL6NJspUUj6SwAk0MiswYoSRrF8KhNxQGsBhlrvM+nikaPvV62ztIyz1DKLLRQw==",
   "success": true,
   "projectFilePath": "F:\\test\\Solution1\\App.Entitis\\Apps.Entitis.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.8\\microsoft.aspnetcore.cryptography.internal.8.0.8.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.8\\microsoft.aspnetcore.cryptography.keyderivation.8.0.8.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.8\\microsoft.extensions.identity.core.8.0.8.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.8\\microsoft.extensions.identity.stores.8.0.8.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
