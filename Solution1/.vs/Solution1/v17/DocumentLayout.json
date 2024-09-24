@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "F:\\test\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE5C9346-DA25-4C7B-AB7D-C1A1E6A99B93}|Apps.RestApi\\Apps.RestApi.csproj|f:\\test\\solution1\\apps.restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE5C9346-DA25-4C7B-AB7D-C1A1E6A99B93}|Apps.RestApi\\Apps.RestApi.csproj|solutionrelative:apps.restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B028531-A07E-4042-8607-84380963E3F4}|Apps.persistence.EF\\Apps.persistence.EF.csproj|f:\\test\\solution1\\apps.persistence.ef\\efdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B028531-A07E-4042-8607-84380963E3F4}|Apps.persistence.EF\\Apps.persistence.EF.csproj|solutionrelative:apps.persistence.ef\\efdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6BD2542-3E24-49E6-915D-9903D1FB8162}|Apps.Services\\Apps.Services.csproj|f:\\test\\solution1\\apps.services\\applicationusers\\authappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BD2542-3E24-49E6-915D-9903D1FB8162}|Apps.Services\\Apps.Services.csproj|solutionrelative:apps.services\\applicationusers\\authappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6BD2542-3E24-49E6-915D-9903D1FB8162}|Apps.Services\\Apps.Services.csproj|f:\\test\\solution1\\apps.services\\applicationusers\\contracts\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6BD2542-3E24-49E6-915D-9903D1FB8162}|Apps.Services\\Apps.Services.csproj|solutionrelative:apps.services\\applicationusers\\contracts\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B028531-A07E-4042-8607-84380963E3F4}|Apps.persistence.EF\\Apps.persistence.EF.csproj|f:\\test\\solution1\\apps.persistence.ef\\applicationusers\\applicationusersentitimaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B028531-A07E-4042-8607-84380963E3F4}|Apps.persistence.EF\\Apps.persistence.EF.csproj|solutionrelative:apps.persistence.ef\\applicationusers\\applicationusersentitimaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE5C9346-DA25-4C7B-AB7D-C1A1E6A99B93}|Apps.RestApi\\Apps.RestApi.csproj|f:\\test\\solution1\\apps.restapi\\apps.restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AE5C9346-DA25-4C7B-AB7D-C1A1E6A99B93}|Apps.RestApi\\Apps.RestApi.csproj|solutionrelative:apps.restapi\\apps.restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "AuthAppService.cs",
+              "DocumentMoniker": "F:\\test\\Solution1\\Apps.Services\\ApplicationUsers\\AuthAppService.cs",
+              "RelativeDocumentMoniker": "Apps.Services\\ApplicationUsers\\AuthAppService.cs",
+              "ToolTip": "F:\\test\\Solution1\\Apps.Services\\ApplicationUsers\\AuthAppService.cs",
+              "RelativeToolTip": "Apps.Services\\ApplicationUsers\\AuthAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:25:29.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AuthService.cs",
               "DocumentMoniker": "F:\\test\\Solution1\\Apps.Services\\ApplicationUsers\\Contracts\\AuthService.cs",
               "RelativeDocumentMoniker": "Apps.Services\\ApplicationUsers\\Contracts\\AuthService.cs",
@@ -42,59 +43,7 @@
               "RelativeToolTip": "Apps.Services\\ApplicationUsers\\Contracts\\AuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T19:00:58.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EFDataContext.cs",
-              "DocumentMoniker": "F:\\test\\Solution1\\Apps.persistence.EF\\EFDataContext.cs",
-              "RelativeDocumentMoniker": "Apps.persistence.EF\\EFDataContext.cs",
-              "ToolTip": "F:\\test\\Solution1\\Apps.persistence.EF\\EFDataContext.cs",
-              "RelativeToolTip": "Apps.persistence.EF\\EFDataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T18:59:25.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationUsersEntitimaps.cs",
-              "DocumentMoniker": "F:\\test\\Solution1\\Apps.persistence.EF\\ApplicationUsers\\ApplicationUsersEntitimaps.cs",
-              "RelativeDocumentMoniker": "Apps.persistence.EF\\ApplicationUsers\\ApplicationUsersEntitimaps.cs",
-              "ToolTip": "F:\\test\\Solution1\\Apps.persistence.EF\\ApplicationUsers\\ApplicationUsersEntitimaps.cs",
-              "RelativeToolTip": "Apps.persistence.EF\\ApplicationUsers\\ApplicationUsersEntitimaps.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T18:59:23.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\test\\Solution1\\Apps.RestApi\\Program.cs",
-              "RelativeDocumentMoniker": "Apps.RestApi\\Program.cs",
-              "ToolTip": "F:\\test\\Solution1\\Apps.RestApi\\Program.cs",
-              "RelativeToolTip": "Apps.RestApi\\Program.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAgwF0AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T18:50:01.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Apps.RestApi",
-              "DocumentMoniker": "F:\\test\\Solution1\\Apps.RestApi\\Apps.RestApi.csproj",
-              "RelativeDocumentMoniker": "Apps.RestApi\\Apps.RestApi.csproj",
-              "ToolTip": "F:\\test\\Solution1\\Apps.RestApi\\Apps.RestApi.csproj",
-              "RelativeToolTip": "Apps.RestApi\\Apps.RestApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-24T18:46:44.205Z",
+              "WhenOpened": "2024-09-24T19:25:28.342Z",
               "EditorCaption": ""
             }
           ]

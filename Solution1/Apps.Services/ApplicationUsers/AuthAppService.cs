@@ -202,5 +202,115 @@ namespace Apps.Services.ApplicationUsers
 
             return token;
         }
+        public async Task<RegisterDto> GetUserByUsernameAsync(string userName)
+        {
+            var user = await _userManager.FindByNameAsync(userName);
+
+            if (user == null) return null;
+
+            // تبدیل به DTO برای بازگشت اطلاعات مورد نیاز
+            return new RegisterDto
+            {
+                FirstName = user.FirstName,
+                LastName = user.LastName,
+                Email = user.Email,
+                UserName = user.UserName
+            };
+        }
+
+        public async Task<AuthServiceResponseDto> UpdateUserAsync(UpdateUserDto updateUserDto)
+        {
+            var user = await _userManager.FindByNameAsync(updateUserDto.UserName);
+
+            if (user is null)
+                return new AuthServiceResponseDto()
+                {
+                    IsSucceed = false,
+                    Message = "User not found"
+                };
+
+            // به‌روزرسانی اطلاعات کاربر
+            user.FirstName = updateUserDto.FirstName;
+            user.LastName = updateUserDto.LastName;
+            user.Email = updateUserDto.Email;
+
+            var updateResult = await _userManager.UpdateAsync(user);
+
+            if (!updateResult.Succeeded)
+            {
+                var errorString = "User update failed because: ";
+                foreach (var error in updateResult.Errors)
+                {
+                    errorString += " # " + error.Description;
+                }
+                return new AuthServiceResponseDto()
+                {
+                    IsSucceed = false,
+                    Message = errorString
+                };
+            }
+
+            return new AuthServiceResponseDto()
+            {
+                IsSucceed = true,
+                Message = "User updated successfully"
+            };
+        }
+        public async Task<AuthServiceResponseDto> DeleteUserAsync(string userName)
+        {
+            var user = await _userManager.FindByNameAsync(userName);
+
+            if (user is null)
+                return new AuthServiceResponseDto()
+                {
+                    IsSucceed = false,
+                    Message = "User not found"
+                };
+
+            var deleteResult = await _userManager.DeleteAsync(user);
+
+            if (!deleteResult.Succeeded)
+            {
+                var errorString = "User deletion failed because: ";
+                foreach (var error in deleteResult.Errors)
+                {
+                    errorString += " # " + error.Description;
+                }
+                return new AuthServiceResponseDto()
+                {
+                    IsSucceed = false,
+                    Message = errorString
+                };
+            }
+
+            return new AuthServiceResponseDto()
+            {
+                IsSucceed = true,
+                Message = "User deleted successfully"
+            };
+        }
+
+        public async Task<AuthServiceResponseDto> GetUserByIdAsync(string userId)
+        {
+            var user = await _userManager.FindByIdAsync(userId);
+
+            if (user == null)
+            {
+                return new AuthServiceResponseDto
+                {
+                    IsSucceed = false,
+                    Message = "User not found"
+                };
+            }
+
+            // Return the user details or DTO as needed
+            return new AuthServiceResponseDto
+            {
+                IsSucceed = true,
+                Message = "User found",
+                // Optionally add user data here
+            };
+        }
+
     }
 }
