@@ -1,0 +1,13 @@
+F:\test\Solution1\App.Entitis\bin\Debug\net8.0\Apps.Entitis.deps.json
+F:\test\Solution1\App.Entitis\bin\Debug\net8.0\Apps.Entitis.dll
+F:\test\Solution1\App.Entitis\bin\Debug\net8.0\Apps.Entitis.pdb
+F:\test\Solution1\App.Entitis\obj\Debug\net8.0\Apps.Entitis.csproj.AssemblyReference.cache
+F:\test\Solution1\App.Entitis\obj\Debug\net8.0\Apps.Entitis.GeneratedMSBuildEditorConfig.editorconfig
+F:\test\Solution1\App.Entitis\obj\Debug\net8.0\Apps.Entitis.AssemblyInfoInputs.cache
+F:\test\Solution1\App.Entitis\obj\Debug\net8.0\Apps.Entitis.AssemblyInfo.cs
+F:\test\Solution1\App.Entitis\obj\Debug\net8.0\Apps.Entitis.csproj.CoreCompileInputs.cache
+F:\test\Solution1\App.Entitis\obj\Debug\net8.0\Apps.Entitis.sourcelink.json
+F:\test\Solution1\App.Entitis\obj\Debug\net8.0\Apps.Entitis.dll
+F:\test\Solution1\App.Entitis\obj\Debug\net8.0\refint\Apps.Entitis.dll
+F:\test\Solution1\App.Entitis\obj\Debug\net8.0\Apps.Entitis.pdb
+F:\test\Solution1\App.Entitis\obj\Debug\net8.0\ref\Apps.Entitis.dll

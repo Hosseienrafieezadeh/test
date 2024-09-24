@@ -1,0 +1,16 @@
+F:\test\Solution1\Apps.Services\bin\Debug\net8.0\Apps.Services.deps.json
+F:\test\Solution1\Apps.Services\bin\Debug\net8.0\Apps.Services.dll
+F:\test\Solution1\Apps.Services\bin\Debug\net8.0\Apps.Services.pdb
+F:\test\Solution1\Apps.Services\bin\Debug\net8.0\Apps.Entitis.dll
+F:\test\Solution1\Apps.Services\bin\Debug\net8.0\Apps.Entitis.pdb
+F:\test\Solution1\Apps.Services\obj\Debug\net8.0\Apps.Services.csproj.AssemblyReference.cache
+F:\test\Solution1\Apps.Services\obj\Debug\net8.0\Apps.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\test\Solution1\Apps.Services\obj\Debug\net8.0\Apps.Services.AssemblyInfoInputs.cache
+F:\test\Solution1\Apps.Services\obj\Debug\net8.0\Apps.Services.AssemblyInfo.cs
+F:\test\Solution1\Apps.Services\obj\Debug\net8.0\Apps.Services.csproj.CoreCompileInputs.cache
+F:\test\Solution1\Apps.Services\obj\Debug\net8.0\Apps.Services.sourcelink.json
+F:\test\Solution1\Apps.Services\obj\Debug\net8.0\Apps.Ser.BDEA7F4F.Up2Date
+F:\test\Solution1\Apps.Services\obj\Debug\net8.0\Apps.Services.dll
+F:\test\Solution1\Apps.Services\obj\Debug\net8.0\refint\Apps.Services.dll
+F:\test\Solution1\Apps.Services\obj\Debug\net8.0\Apps.Services.pdb
+F:\test\Solution1\Apps.Services\obj\Debug\net8.0\ref\Apps.Services.dll

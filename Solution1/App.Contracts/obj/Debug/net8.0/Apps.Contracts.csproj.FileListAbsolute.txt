@@ -1,0 +1,12 @@
+F:\test\Solution1\App.Contracts\bin\Debug\net8.0\Apps.Contracts.deps.json
+F:\test\Solution1\App.Contracts\bin\Debug\net8.0\Apps.Contracts.dll
+F:\test\Solution1\App.Contracts\bin\Debug\net8.0\Apps.Contracts.pdb
+F:\test\Solution1\App.Contracts\obj\Debug\net8.0\Apps.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\test\Solution1\App.Contracts\obj\Debug\net8.0\Apps.Contracts.AssemblyInfoInputs.cache
+F:\test\Solution1\App.Contracts\obj\Debug\net8.0\Apps.Contracts.AssemblyInfo.cs
+F:\test\Solution1\App.Contracts\obj\Debug\net8.0\Apps.Contracts.csproj.CoreCompileInputs.cache
+F:\test\Solution1\App.Contracts\obj\Debug\net8.0\Apps.Contracts.sourcelink.json
+F:\test\Solution1\App.Contracts\obj\Debug\net8.0\Apps.Contracts.dll
+F:\test\Solution1\App.Contracts\obj\Debug\net8.0\refint\Apps.Contracts.dll
+F:\test\Solution1\App.Contracts\obj\Debug\net8.0\Apps.Contracts.pdb
+F:\test\Solution1\App.Contracts\obj\Debug\net8.0\ref\Apps.Contracts.dll
